@@ -1,4 +1,4 @@
 # Portfolio
 
-Здесь собраны реализованные проекты по Data Science
+Реализованные проекты по Data Science
 
